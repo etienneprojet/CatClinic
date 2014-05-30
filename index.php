@@ -1,5 +1,5 @@
 <?php
-
+//test
 // Ce fichier est le point d'entrée de votre application
 require 'Noyau/Constantes.php';
 require 'Noyau/ChargementAuto.php';
